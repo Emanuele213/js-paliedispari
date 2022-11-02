@@ -8,7 +8,7 @@ function checkPalindrome(word) {
             return 'E\' una parola palindroma';
         }
     }
-    return 'La parola è palindroma';
+    return 'La parola non è palindroma';
 }
 
 const output = checkPalindrome(word2);
